@@ -75,6 +75,8 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 
 ## 📸 Sample Screens
 
+## 📸 Sample Screens
+
 ### 🏠 Home Page
 ![Home Page](assets/Screenshot%202025-06-12%20at%206.17.45%20PM.png)
 
@@ -95,7 +97,6 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 
 ### 🏆 Impact Tracker
 ![Impact Tracker](assets/Screenshot%202025-06-12%20at%206.19.48%20PM.png)
-
 
 ## 🙋‍♀️ About the Developer
 
