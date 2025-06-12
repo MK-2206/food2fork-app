@@ -91,13 +91,17 @@ st.markdown("""
         margin-bottom: 20px;
     }
     .listing-card {
-        background-color: #f8f9fa;
-        padding: 15px;
-        border-radius: 10px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        margin-bottom: 15px;
-        border-left: 5px solid #3498db;
-    }
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    border-left: 5px solid #3498db;
+}
+.listing-card * {
+    color: #222222;  /* or try black: #000000 */
+}
+
     .listing-card:hover {
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         transform: translateY(-2px);
