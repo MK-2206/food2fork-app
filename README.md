@@ -1,106 +1,94 @@
 # FridgeFusion 🍳🥗 - Your Smart Kitchen Assistant
 
-**FridgeFusion** is an innovative AI-powered app that turns your fridge contents into delicious recipes! 🚀 Say goodbye to food waste and hello to creative cooking with personalized recipe suggestions tailored to your available ingredients and dietary preferences.
+**FridgeFusion** is an AI-powered Streamlit web app built by **Mansi Kharke**, designed to help reduce food waste by turning your fridge contents into creative, personalized recipes! 🚀 Whether you're meal prepping or just trying to use what's left before it expires, FridgeFusion has you covered.
 
 ## 🌟 Overview
 
-FridgeFusion is the ultimate solution for anyone looking to make the most of their kitchen inventory. Whether you're a seasoned chef 👨‍🍳 or a cooking novice 🍽️, our application provides customized recipe recommendations based on what's in your fridge. Leveraging cutting-edge AI technology, FridgeFusion delivers accurate, actionable recipes that help you create tasty meals while reducing food waste. 🌿♻️
+FridgeFusion empowers users to effortlessly convert leftover ingredients into customized, delicious meals. With the help of Google Gemini's AI and a clean, interactive UI, the app helps reduce food waste while promoting sustainable cooking habits. 🌿♻️
 
 ## 🔥 Key Features
 
-- 📸 **Image-Based Ingredient Recognition**: Upload fridge photos for instant ingredient identification
-- 🍽️ **Customized Recipe Generation**: Get personalized recipes based on your available ingredients
-- 🍣 **Multiple Recipe Options**: Choose from various recipe suggestions
-- 🥕 **Dietary Preference Support**: Tailor recipes to your specific dietary needs or restrictions
-- 📄 **PDF Recipe Download**: Save generated recipes as PDFs for offline use
-- 🖥️ **User-Friendly Interface**: Navigate effortlessly with our intuitive, step-by-step process
+- 📸 **AI-Based Ingredient Recognition**: Upload fridge photos to auto-identify ingredients using Google Gemini
+- 🍽️ **Customized Recipe Generation**: Personalized recipes based on your ingredients and dietary preferences
+- 🍱 **Multiple Recipe Suggestions**: Generate and browse through multiple recipe ideas
+- 🥗 **Diet-Aware Options**: Filter recipes by vegetarian, vegan, gluten-free, keto, and more
+- 📄 **PDF Export**: Download generated recipes as a PDF for offline use
+- 📦 **Inventory & Sharing System**: Track expiring items, share food with neighbors, or donate to local NGOs
+- 💬 **Real-Time Chat**: Connect with nearby users about shared ingredients
+- 🏆 **Impact Dashboard**: See your contributions to food-saving efforts with badges and stats
 
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
 
-- Python 3.8+ 🐍
-- Streamlit 🌟
-- Pillow (PIL) 🖼️
-- python-dotenv 🔐
-- google-generativeai 🧠
-- fpdf 📄
+- Python 3.8+
+- Streamlit
+- Pillow
+- python-dotenv
+- google-generativeai
+- fpdf
+- pandas
 
 ### Installation
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/SauravSrivastav/fridgefusion-st.git
-    cd fridgefusion-st
+    git clone https://github.com/MK-2206/food2fork-app.git
+    cd food2fork-app
     ```
 
-2. **Create and Activate a Virtual Environment:**
-    - Windows:
-      ```bash
-      python -m venv venv
-      venv\Scripts\activate
-      ```
-    - macOS/Linux:
-      ```bash
-      python3 -m venv venv
-      source venv/bin/activate
-      ```
+2. **Create and activate a virtual environment:**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # For Windows: venv\Scripts\activate
+    ```
 
-3. **Install required packages:**
+3. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Set up Google Generative AI (Gemini) API key:**
-    - Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
+4. **Set up Gemini API key:**
+    - Get your key from [Google AI Studio](https://aistudio.google.com/app/apikey)
     - Create a `.env` file in the project root:
       ```env
       GEMINI_API_KEY=your_api_key_here
       ```
 
-5. **Launch the app:**
+5. **Run the app:**
     ```bash
     streamlit run app.py
     ```
 
-6. **Deactivate Virtual Environment (When Done):**
+6. **To deactivate:**
     ```bash
     deactivate
     ```
 
-## 🚀 How to Use FridgeFusion
+## 🚀 How to Use
 
-1. 📸 Upload fridge images or snap photos with your device
-2. 📝 Review and edit the AI-identified ingredients
-3. 🍽️ Select dietary preferences and number of recipes
-4. 👨‍🍳 Generate personalized recipes from your ingredients
-5. 💾 Download recipes as PDF or view in-app
+1. Upload images of your fridge items or take a live picture
+2. Let the AI detect ingredients and edit them if needed
+3. Select dietary and cuisine preferences
+4. Generate recipes
+5. Download them or share unused items via the community marketplace
 
-## 📸 App Screenshots
+## 📸 Sample Screens
 
-![Search Results](https://github.com/SauravSrivastav/fridgefusion-st/blob/main/data/1.png)
+_coming soon…_
 
-## 🤝 Contributing
+## 🙋‍♀️ About the Developer
 
-We welcome contributions! 🎉 To improve FridgeFusion:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Built with ❤️ by **Mansi Kharke**, a full-stack developer passionate about AI, sustainability, and building impact-driven products.
 
-For major changes, please open an issue first to discuss your ideas.
+- 💼 LinkedIn: [linkedin.com/in/mansi-kharke-3b7565183](https://www.linkedin.com/in/mansi-kharke-3b7565183)
+- 🐙 GitHub: [github.com/MK-2206](https://github.com/MK-2206)
+- 🌐 Portfolio: [mansikharke.netlify.app](https://mansikharke.netlify.app)
+- 📧 Email: [mkharke@iu.edu](mailto:mansikh.work@gmail.com)
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact Us
-
-Have questions or suggestions? Reach out to us:
-
-- 📧 Email: [Sauravsrivastav2205@gmail.com](mailto:Sauravsrivastav2205@gmail.com)
-- 💼 LinkedIn: [in/sauravsrivastav2205](https://www.linkedin.com/in/sauravsrivastav2205)
-- 🐙 GitHub: [https://github.com/SauravSrivastav](https://github.com/SauravSrivastav)
+MIT License — free for personal and educational use.
 
 ---
+
