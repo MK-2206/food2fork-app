@@ -1,6 +1,6 @@
-echo "streamlit
+streamlit
 pillow
 python-dotenv
 google-generativeai
 fpdf
-pandas" > requirements.txt
+pandas
