@@ -79,25 +79,25 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 ## 📸 Sample Screens
 
 ### 🏠 Home Page
-![Home Page](assets/Screenshot%202025-06-12%20at%206.17.45%20PM.png)
+![Home Page](assets/Screenshot%202025-06-12%20at%206.17.45PM.png)
 
 ### 🍽️ Recipe Finder
-![Recipe Finder](assets/Screenshot%202025-06-12%20at%206.18.13%20PM.png)
+![Recipe Finder](assets/Screenshot%202025-06-12%20at%206.18.13PM.png)
 
 ### 📦 Share Marketplace
-![Share Marketplace](assets/Screenshot%202025-06-12%20at%206.18.28%20PM.png)
+![Share Marketplace](assets/Screenshot%202025-06-12%20at%206.18.21PM.png)
 
 ### 🛒 Inventory Tracker
-![Inventory](assets/Screenshot%202025-06-12%20at%206.18.35%20PM.png)
+![Inventory](assets/Screenshot%202025-06-12%20at%206.18.28PM.png)
 
 ### 👥 Local Connect
-![Local Connect](assets/Screenshot%202025-06-12%20at%206.19.00%20PM.png)
+![Local Connect](assets/Screenshot%202025-06-12%20at%206.18.35PM.png)
 
 ### 💬 Chat Feature
-![Chat](assets/Screenshot%202025-06-12%20at%206.19.09%20PM.png)
+![Chat](assets/Screenshot%202025-06-12%20at%206.18.47PM.png)
 
 ### 🏆 Impact Tracker
-![Impact Tracker](assets/Screenshot%202025-06-12%20at%206.19.48%20PM.png)
+![Impact Tracker](assets/Screenshot%202025-06-12%20at%206.19.09PM.png)
 
 
 ## 🙋‍♀️ About the Developer
