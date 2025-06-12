@@ -79,6 +79,7 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 ## 📸 Sample Screens
 
 ### 🏠 Home Page
+ HEAD
 ![Home Page](assets/Screenshot%202025-06-12%20at%206.17.45PM.png)
 
 ### 🍽️ Recipe Finder
@@ -98,6 +99,28 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 
 ### 🏆 Impact Tracker
 ![Impact Tracker](assets/Screenshot%202025-06-12%20at%206.19.09PM.png)
+=======
+![Home Page](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.17.45 PM.png)
+
+### 🍽️ Recipe Finder
+![Recipe Finder](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.13 PM.png)
+
+### 📦 Share Marketplace
+![Share Marketplace](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.21 PM.png)
+
+### 🛒 Inventory Tracker
+![Inventory](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.28 PM.png)
+
+### 👥 Local Connect
+![Local Connect](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.35 PM.png)
+
+### 💬 Chat Feature
+![Chat](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.47 PM.png)
+
+### 🏆 Impact Tracker
+![Impact Tracker](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.53 PM.png)
+
+c6d195c (Restore assets directory with renamed screenshots and updated README)
 
 
 ## 🙋‍♀️ About the Developer
