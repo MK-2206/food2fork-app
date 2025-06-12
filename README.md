@@ -75,53 +75,39 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 
 
 
-
 ## 📸 Sample Screens
 
 ### 🏠 Home Page
- HEAD
-![Home Page](assets/Screenshot%202025-06-12%20at%206.17.45PM.png)
+![Home Page](assets/1.png)
 
 ### 🍽️ Recipe Finder
-![Recipe Finder](assets/Screenshot%202025-06-12%20at%206.18.13PM.png)
+![Recipe Finder](assets/2.png)
 
 ### 📦 Share Marketplace
-![Share Marketplace](assets/Screenshot%202025-06-12%20at%206.18.21PM.png)
+![Share Marketplace](assets/3.png)
 
 ### 🛒 Inventory Tracker
-![Inventory](assets/Screenshot%202025-06-12%20at%206.18.28PM.png)
+![Inventory](assets/4.png)
 
 ### 👥 Local Connect
-![Local Connect](assets/Screenshot%202025-06-12%20at%206.18.35PM.png)
+![Local Connect](assets/5.png)
 
 ### 💬 Chat Feature
-![Chat](assets/Screenshot%202025-06-12%20at%206.18.47PM.png)
+![Chat](assets/6.png)
 
 ### 🏆 Impact Tracker
-![Impact Tracker](assets/Screenshot%202025-06-12%20at%206.19.09PM.png)
-=======
-![Home Page](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.17.45 PM.png)
+![Impact Tracker](assets/9.png)
 
-### 🍽️ Recipe Finder
-![Recipe Finder](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.13 PM.png)
+### 🌟 Extra Features
 
-### 📦 Share Marketplace
-![Share Marketplace](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.21 PM.png)
+#### 📈 Leaderboard View
+![Leaderboard](assets/7.png)
 
-### 🛒 Inventory Tracker
-![Inventory](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.28 PM.png)
+#### 🧾 PDF Recipe Export Preview
+![PDF Export](assets/8.png)
 
-### 👥 Local Connect
-![Local Connect](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.35 PM.png)
-
-### 💬 Chat Feature
-![Chat](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.47 PM.png)
-
-### 🏆 Impact Tracker
-![Impact Tracker](/Users/mkharke/Downloads/fridgefusion-st-main/assets/Screenshot 2025-06-12 at 6.18.53 PM.png)
-
-c6d195c (Restore assets directory with renamed screenshots and updated README)
-
+#### 🧠 AI-Powered Ingredient Suggestions
+![Ingredient Suggestions](assets/10.png)
 
 ## 🙋‍♀️ About the Developer
 
