@@ -1,10 +1,10 @@
 # Fridge2Fork 🍳🥗 - Your Smart Kitchen Assistant
 
-**FridgeFusion** is an AI-powered Streamlit web app built by **Mansi Kharke**, designed to help reduce food waste by turning your fridge contents into creative, personalized recipes! 🚀 Whether you're meal prepping or just trying to use what's left before it expires, FridgeFusion has you covered.
+**Fridge2Fork ** is an AI-powered Streamlit web app built by **Mansi Kharke**, designed to help reduce food waste by turning your fridge contents into creative, personalized recipes! 🚀 Whether you're meal prepping or just trying to use what's left before it expires, FridgeFusion has you covered.
 
 ## 🌟 Overview
 
-FridgeFusion empowers users to effortlessly convert leftover ingredients into customized, delicious meals. With the help of Google Gemini's AI and a clean, interactive UI, the app helps reduce food waste while promoting sustainable cooking habits. 🌿♻️
+Fridge2Fork  empowers users to effortlessly convert leftover ingredients into customized, delicious meals. With the help of Google Gemini's AI and a clean, interactive UI, the app helps reduce food waste while promoting sustainable cooking habits. 🌿♻️
 
 ## 🔥 Key Features
 
