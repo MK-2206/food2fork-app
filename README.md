@@ -29,6 +29,42 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 - fpdf
 - pandas
 
+
+## 📸 Sample Screens
+
+### 🏠 Home Page
+![Home Page](assets/1.png)
+
+### 🍽️ Recipe Finder
+![Recipe Finder](assets/2.png)
+
+### 📦 Share Marketplace
+![Share Marketplace](assets/3.png)
+
+### 🛒 Inventory Tracker
+![Inventory](assets/4.png)
+
+### 👥 Local Connect
+![Local Connect](assets/5.png)
+
+### 💬 Chat Feature
+![Chat](assets/6.png)
+
+### 🏆 Impact Tracker
+![Impact Tracker](assets/9.png)
+
+### 🌟 Extra Features
+
+#### 📈 Leaderboard View
+![Leaderboard](assets/7.png)
+
+#### 🧾 PDF Recipe Export Preview
+![PDF Export](assets/8.png)
+
+#### 🧠 AI-Powered Ingredient Suggestions
+![Ingredient Suggestions](assets/10.png)
+
+
 ### Installation
 
 1. **Clone the repository:**
@@ -72,42 +108,6 @@ FridgeFusion empowers users to effortlessly convert leftover ingredients into cu
 3. Select dietary and cuisine preferences
 4. Generate recipes
 5. Download them or share unused items via the community marketplace
-
-
-
-## 📸 Sample Screens
-
-### 🏠 Home Page
-![Home Page](assets/1.png)
-
-### 🍽️ Recipe Finder
-![Recipe Finder](assets/2.png)
-
-### 📦 Share Marketplace
-![Share Marketplace](assets/3.png)
-
-### 🛒 Inventory Tracker
-![Inventory](assets/4.png)
-
-### 👥 Local Connect
-![Local Connect](assets/5.png)
-
-### 💬 Chat Feature
-![Chat](assets/6.png)
-
-### 🏆 Impact Tracker
-![Impact Tracker](assets/9.png)
-
-### 🌟 Extra Features
-
-#### 📈 Leaderboard View
-![Leaderboard](assets/7.png)
-
-#### 🧾 PDF Recipe Export Preview
-![PDF Export](assets/8.png)
-
-#### 🧠 AI-Powered Ingredient Suggestions
-![Ingredient Suggestions](assets/10.png)
 
 ## 🙋‍♀️ About the Developer
 
